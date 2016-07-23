@@ -1,0 +1,8 @@
+﻿  Main.cpp
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(266): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(272): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(343): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(421): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(838): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(985): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+  frequentSubtreeMining8.0.vcxproj -> C:\Users\Jianming\Documents\Visual Studio 2015\Projects\C++\Graduation Project\STT\frequentSubtreeMining8.0\Debug\frequentSubtreeMining8.0.exe

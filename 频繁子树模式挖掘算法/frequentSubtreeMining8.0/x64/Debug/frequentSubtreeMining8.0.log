@@ -1,0 +1,16 @@
+﻿  Main.cpp
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(264): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(270): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(341): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(419): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(795): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(853): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(880): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(895): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(897): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(917): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(980): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(1093): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(1113): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\jianming\documents\visual studio 2015\projects\c++\graduation project\stt\frequentsubtreemining8.0\frequentsubtreemining8.0\main.cpp(1201): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  frequentSubtreeMining8.0.vcxproj -> C:\Users\Jianming\Documents\Visual Studio 2015\Projects\C++\Graduation Project\STT\frequentSubtreeMining8.0\x64\Debug\frequentSubtreeMining8.0.exe

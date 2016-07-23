@@ -1,0 +1,21 @@
+﻿  Main.cpp
+Main.cpp(266): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Main.cpp(272): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Main.cpp(343): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Main.cpp(421): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Main.cpp(797): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(855): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(882): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(897): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(899): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(919): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(982): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+Main.cpp(1095): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(1115): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+Main.cpp(1208): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码
+  3310 of 3311 functions (100.0%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  frequentSubtreeMining8.0.vcxproj -> D:\Users\Jianming\Desktop\毕设提交完整\08.程序、源码及安装配置说明\频繁子树模式挖掘算法\x64\Release\frequentSubtreeMining8.0.exe
